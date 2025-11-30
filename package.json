@@ -1,0 +1,10 @@
+{
+  "name": "nrfcloud-webhook-handler",
+  "version": "1.0.0",
+  "description": "Appwrite Function to handle nRF Cloud webhooks.",
+  "main": "index.js",
+  "dependencies": {
+    "node-appwrite": "^12.0.1",
+    "crypto": "^1.0.1"
+  }
+}
